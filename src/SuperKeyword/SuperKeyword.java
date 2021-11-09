@@ -20,7 +20,7 @@ public class SuperKeyword extends   A  {
 	
 	public SuperKeyword (double b ) {
 		super(10);					// super(): used for calling the constructors from the super class MUST be used in the sub class
-									// this(): used for calling the contructors from the class itself
+									// this(): used for calling the constructors from the class itself
 	
 	}			
 	
